@@ -91,7 +91,7 @@ Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
 - **My prompt:**  
-
+A sundial entrapped behind bars with books posters and stones lining the walls, a police bat hitting one of the jail sell bars and a prisoners hand lying by the side of the bed. ---the theme should be rugged, avoid anything that is extravagant. Keep the color theme of grey and a taint of blue----make the image more simplistic and grainy, the sundial should be on the outside of the cell, draw the attention towards the guards bat and don't make the bed a double decker, complete the arm and the jail cell
 - **What worked:**  
 - **What didn't work:**  
 - **What I'll change for next attempt:**  
