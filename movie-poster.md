@@ -30,36 +30,37 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
+- **Movie Title:**  Shawshank Redemption 
 - **Why I chose this movie:**  
-
+It is a well known movie so any poster I make will hopefully be recognizable. The movie is quite  poetic and I just wanted to test out my creativity by working with such a poetic medium.
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
 - **Core emotion:**  
-
+Tension, anxiety, nostalgia
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
+- **Essential element:**  A sundial entrapped behind bars with books posters and stones lining the walls, a police bat hitting one of the jail sell bars and a prisoners hand lying by the side of the bed.
 - **Why this element:**  
-
+It portrays key themes of the movie such as time, brutality, academics, and persistence.
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
 - **Avoid:**  
-
+Anything too elaborate
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
+- **Dominant color(s):**  Grey
+- **Accent color(s):**  Blue
 - **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+Rugged
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
+- [ ] Wide shot (landscape/setting)  Of half of the cell
 - [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
+- [ ] Object/symbol centered  the entire sun dial
 - [ ] Character collage  
 
 - **Focal point description:**  
-
+The Bat
 ---
 
 ## Step 2: AI Generation – First Attempts
@@ -69,10 +70,10 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 
 **Attempt 1:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+ A sundial entrapped behind bars with books posters and stones lining the walls, a police bat hitting one of the jail sell bars and a prisoners hand lying by the side of the bed. ---the theme should be rugged, avoid anything that is extravagant. Keep the color theme of grey and a taint of blue
+- **What worked:**  The color theme
+- **What didn't work:**  The image was to detailed
+- **What I'll change for next attempt:**  More simplistic and grainy
 
 **Attempt 2:**  
 - **My prompt:**  
