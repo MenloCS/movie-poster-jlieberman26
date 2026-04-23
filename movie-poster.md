@@ -77,9 +77,9 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 
 **Attempt 2:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
+A sundial entrapped behind bars with books posters and stones lining the walls, a police bat hitting one of the jail sell bars and a prisoners hand lying by the side of the bed. ---the theme should be rugged, avoid anything that is extravagant. Keep the color theme of grey and a taint of blue----make the image more simplistic and grainy, the sundial should be on the outside of the cell, draw the attention towards the guards bat and don't make the bed a double decker
+- **What worked:**  the color theme
+- **What didn't work:**  It looked like a comic book
 - **What I'll change for next attempt:**  
 
 ---
